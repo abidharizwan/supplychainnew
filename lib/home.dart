@@ -218,7 +218,6 @@ class _HomeNewPageState extends State<HomeNewPage> {
                                                 .textTheme
                                                 .headline6,
                                           ),
-
                                           SizedBox(
                                             height: 40,
                                           )
